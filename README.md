@@ -1,8 +1,8 @@
 ### Hi there 👋
-
+<!--
 - 🔭 I’m currently working on ... AWS Stuff
 - 🌱 I’m currently learning ... Security related topics
-<!--
+
 **priyaoz/priyaoz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
